@@ -255,3 +255,6 @@ This repository serves as the official landing page for Mailspring. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Mailspring today!**
+
+---
+**Last updated:** 2026-09-09 23:48:33 UTC
