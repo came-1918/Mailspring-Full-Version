@@ -1,0 +1,1 @@
+# Mailspring-Full-Version
