@@ -257,4 +257,4 @@ This repository serves as the official landing page for Mailspring. The software
 **Get the most recent version of Mailspring today!**
 
 ---
-**Last updated:** 2026-09-18 20:21:37 UTC
+**Last updated:** 2026-09-18 22:59:43 UTC
